@@ -2,7 +2,6 @@
 # **Data Analysis on Domestic Airlines in India**  
 *A Predictive Modeling Project for Passenger Traffic and Customer Satisfaction*  
 
-![Airlines](https://img.freepik.com/free-photo/airplane-flying-cloudy-sky_23-2147672763.jpg) *[Image: Representative image of domestic airlines]*  
 
 ## **📌 Overview**  
 This project combines **time-series forecasting** and **machine learning** to analyze India’s domestic aviation sector. It aims to:  
