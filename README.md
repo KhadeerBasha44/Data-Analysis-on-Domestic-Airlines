@@ -68,7 +68,7 @@ This project combines **time-series forecasting** and **machine learning** to an
 ### **Steps**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/domestic-airlines-analysis.git  
+   git clone https://github.com/khadeerbasha44/domestic-airlines-analysis.git  
    cd domestic-airlines-analysis  
    ```  
 
