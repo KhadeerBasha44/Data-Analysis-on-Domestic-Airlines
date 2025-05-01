@@ -1,6 +1,3 @@
-Here’s a polished **README.md** for your project, formatted for GitHub or any code repository. You can customize it further as needed:
-
----
 
 # **Data Analysis on Domestic Airlines in India**  
 *A Predictive Modeling Project for Passenger Traffic and Customer Satisfaction*  
